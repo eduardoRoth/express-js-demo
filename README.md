@@ -2,9 +2,9 @@
 
 ### Endpoints
 
-- [Students](https://afternoon-retreat-09101.herokuapp.com/)
+- [Students](https://evening-fjord-42311.herokuapp.com/)
     - GET
-        - /api/students
+        - [/api/students](https://evening-fjord-42311.herokuapp.com/api/students)
     - POST
         - /api/students
     - PUT
